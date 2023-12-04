@@ -8,4 +8,5 @@
 repository  to recognize persian license plate text
 
 ◻️ Weights
-◽ [Yolo Detector]([https://drive.google.com/file/d/1x4gBpO1N63c2-raWuGgiWSafjQ1PabAn/view?usp=drive_link])
+
+◽ [Yolo Detector](https://drive.google.com/file/d/1x4gBpO1N63c2-raWuGgiWSafjQ1PabAn/view?usp=drive_link)
