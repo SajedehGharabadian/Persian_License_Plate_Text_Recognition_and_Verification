@@ -36,7 +36,7 @@ python verification.py --input_img name_img.jpg
 ◻️ Recognizer
 
 
-| <img src="io/output/image_crop0.jpg" width="280"> | <img src="io/output/image_crop1.jpg" width="280"> |
+| <img src="io/output/crop_img0.jpg" width="280"> | <img src="io/output/crop_img1.jpg" width="280"> |
 | :-------------------:                    | :-----------------------: | 
 |  12l99812                                |   39j19742             |  
 |  l =  ل                                  |   j = ج              |   
