@@ -1,4 +1,0 @@
-ultralytics
-lmdb
-natsort
-cv2
