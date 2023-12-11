@@ -3,7 +3,9 @@
 ## Description
 
 ◻️ Use Yolo v8 for detect persian license plate
+
 ◻️ Use Deep Text Recognition Benchmark to recognize the lincense plates text
+
 ◻️ Use verification to know the license plate is in the database or not
 
 ## How to install
